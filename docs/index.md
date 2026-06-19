@@ -84,9 +84,14 @@ Duplicated footnote reference[^second].
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 ## Youtube Video
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/KFO56eB83z4"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Youtube Video
 
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/KFO56eB83z4"
+title="YouTube video player"
+allowfullscreen>
+</iframe>
   
 
